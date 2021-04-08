@@ -7,6 +7,8 @@
 - hadoop版本：2.7.7
 - spark版本：3.1.1
 - jdk版本：1.8
+- hive版本：待添加
+- Hbase版本：待添加
 
 > **ps：请先确保你的 docker 和 make 是可用的。**
 
