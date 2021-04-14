@@ -10,7 +10,11 @@
 - hive版本：待添加
 - Hbase版本：1.4.13
 
-> **ps：请先确保你的 git 、docker 和 make 是可用的。**
+
+
+> **ps：请先确保wsl或者linux虚拟机中的 git 、docker 和 make 是可用的。**
+
+> [wsl安装指南点击这里](https://liuyang0001.github.io/2020/07/23/WSL2%E7%9A%84%E5%AE%89%E8%A3%85%E7%AC%94%E8%AE%B0/)
 
 > **镜像内的用户密码为：qwe**
 
