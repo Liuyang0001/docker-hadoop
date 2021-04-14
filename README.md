@@ -16,6 +16,8 @@
 
 > [wsl安装指南点击这里](https://liuyang0001.github.io/2020/07/23/WSL2%E7%9A%84%E5%AE%89%E8%A3%85%E7%AC%94%E8%AE%B0/)
 
+>[wsl安装docekr点击这里](https://liuyang0001.github.io/2020/08/11/wsl%E5%AE%89%E8%A3%85docker/) 
+
 > **镜像内的用户密码为：qwe**
 
 
