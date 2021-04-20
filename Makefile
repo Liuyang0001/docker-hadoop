@@ -8,7 +8,7 @@ down:
 	sudo docker network rm liuyang-network
 
 bash:
-	sudo docker exec -it --privileged=true -u liu hadoop /bin/bash
+	sudo docker exec -it --privileged=true -u liu --workdir /home/liu hadoop /bin/bash
 
 pull:
 	sudo docker pull liuyang0001/hadoop:latest
